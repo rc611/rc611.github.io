@@ -82,7 +82,7 @@ last_modified_at: 2024-05-24
 
 <div style="text-align: justify;">
   <p>2. The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition 
-  <strong><a href="https://www.youtube.com/watch?v=Cu3-2oeKpLU&ab_channel=Figure">[Demo: Click me]</strong></p>
+  <strong><a href="https://www.youtube.com/watch?v=Cu3-2oeKpLU&ab_channel=Figure"><font color='red'>[Demo: Click me]</font></a></strong></p>
 </div>
 
 <p align="center">
