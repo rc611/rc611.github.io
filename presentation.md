@@ -19,6 +19,7 @@ last_modified_at: 2024-05-20
     <p>
       <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
       <br/>
+      <a href="https://youtu.be/1HMwYa4aOio"><b>[Click me]</b></a>
     </p>
   </div>
 </div>
