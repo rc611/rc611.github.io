@@ -14,12 +14,12 @@ last_modified_at: 2024-08-28
   </a>
   <div style="text-align: justify;">
     <span style="display: block; margin-bottom: 10px;">
-      <b><a href="https://youtu.be/uhDt7ZMQ2y8" style="color: #1772d0;">Automated rebar cage tying based on autonomous navigation unmanned ground vehicle</a></b>
+      <b style="color: #1772d0;">Automated rebar cage tying based on autonomous navigation unmanned ground vehicle</b>
     </span>
     <p>
-      <a href="https://youtu.be/uhDt7ZMQ2y8" style="color: inherit; text-decoration: none;">The Tying of Rebar Cage
-      </a>
+      The Tying of Rebar Cage
       <br/>
+      <a href="https://youtu.be/uhDt7ZMQ2y8"><b>[Click me]</b></a>
     </p>
   </div>
 </div>
@@ -30,12 +30,12 @@ last_modified_at: 2024-08-28
   </a>
   <div style="text-align: justify;">
     <span style="display: block; margin-bottom: 10px;">
-      <b><a href="https://youtu.be/uixmualasgU" style="color: #1772d0;">Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls</a></b>
+      <b style="color: #1772d0;">Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls</b>
     </span>
     <p>
-      <a href="https://youtu.be/uixmualasgU" style="color: inherit; text-decoration: none;">The Complex Joints Welding of Rebar Cage
-      </a>
+      The Complex Joints Welding of Rebar Cage 
       <br/>
+      <a href="https://youtu.be/uixmualasgU"><b>[Click me]</b></a>
     </p>
   </div>
 </div>
@@ -46,10 +46,10 @@ last_modified_at: 2024-08-28
   </a>
   <div style="text-align: justify;">
     <span style="display: block; margin-bottom: 10px;">
-      <b><a href="https://youtu.be/-3JwZIYJyXY?si=fh8XFqsYJz8_JuwO" style="color: #1772d0;">Automated Point Positioning for Robotic Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras</a></b>
+      <b style="color: #1772d0;">Automated Point Positioning for Robotic Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
     </span>
     <p>
-      <a href="https://youtu.be/-3JwZIYJyXY?si=fh8XFqsYJz8_JuwO" style="color: inherit; text-decoration: none;">AutoCAD Plug in Tutorial: How to Extract the Welding Point in CAD drawing</a>
+      AutoCAD Plug in Tutorial: How to Extract the Welding Point in CAD drawing
       <br/>
       <a href="https://youtu.be/-3JwZIYJyXY?si=fh8XFqsYJz8_JuwO"><b>[Demo]</b></a>
       <a href="https://huiguangwang.top/file/AutoCAD_plug_in.rar"><b>[Code]</b></a>
