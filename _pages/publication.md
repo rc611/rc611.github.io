@@ -18,7 +18,9 @@ last_modified_at: 2024-12-01
     <p>
       <strong>Ran Cao</strong>, S El-Tawil, A Agrawal, W Wong
       <br/>   
-      <i>International Journal of Bridge Engineering, Management and Research</i>, 2024.9.5     
+      <i>International Journal of Bridge Engineering, Management and Research</i>, 2024.9.5   
+      <br/>
+      <a href="https://ijbemr.org/index.php/ber/article/view/3"><b>[Paper]</b></a>       
     </p>
   </div>
 </div>
@@ -34,7 +36,9 @@ last_modified_at: 2024-12-01
     <p>
       <strong>Ran Cao</strong>, S El-Tawil, A Agrawal, W Wong, Q Zhu
       <br/>   
-      <i>Journal of Bridge Engineering</i>, 2024.8.1     
+      <i>Journal of Bridge Engineering</i>, 2024.8.1   
+      <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/JBENF2.BEENG-6575"><b>[Paper]</b></a>         
     </p>
   </div>
 </div>
@@ -51,7 +55,9 @@ last_modified_at: 2024-12-01
     <p>
       Huiguang Wang, Lu Deng, <strong>Ran Cao</strong>, Jingjing Guo
       <br/>   
-      <i>ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction</i>, 2024     
+      <i>ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction</i>, 2024   
+      <br/>
+      <a href="https://www.iaarc.org/publications/fulltext/022_ISARC_2024_Paper_225.pdf"><b>[Paper]</b></a>   
     </p>
   </div>
 </div>
@@ -68,7 +74,9 @@ last_modified_at: 2024-12-01
     <p>
       Songyue Wang, Lu Deng, Jingjing Guo, Mi Liu, <strong>Ran Cao</strong>
       <br/>   
-      <i>ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction</i>, 2024     
+      <i>ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction</i>, 2024 
+      <br/>
+      <a href="https://www.iaarc.org/publications/fulltext/008_ISARC_2024_Paper_235.pdf"><b>[Paper]</b></a>      
     </p>
   </div>
 </div>
@@ -84,7 +92,9 @@ last_modified_at: 2024-12-01
     <p>
       <strong>Ran Cao</strong>, Xun Zuo, Anil Kumar Agrawal, Sherif El-Tawil, Waider Wong
       <br/>   
-      <i>Journal of Bridge Engineering</i>, 2023.12.1    
+      <i>Journal of Bridge Engineering</i>, 2023.12.1   
+      <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/JBENF2.BEENG-5984"><b>[Paper]</b></a>   
     </p>
   </div>
 </div>
@@ -190,7 +200,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  
+  <img src="/web_resources\publications\picture\European Workshop on Structural Health Monitoring.webp" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Implementation of Crash Simulation Technology to Develop Countermeasures Strategies for Overheight Impact Protection System on Concrete Girders</b>
@@ -205,6 +215,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\European Workshop on Structural Health Monitoring.webp" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -219,6 +230,7 @@ last_modified_at: 2024-12-01
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -233,6 +245,7 @@ last_modified_at: 2024-12-01
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\Journal of Civil Structural Health Monitoring.webp" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>   
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -249,6 +262,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\Journal of Infrastructure Systems.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -257,13 +271,14 @@ last_modified_at: 2024-12-01
     <p>
       Anil Kumar Agrawal, Glenn Washer, Sreenivas Alampalli, Xu Gong, <strong>Ran Cao</strong>
       <br/>   
-      <i>Journal of Infrastructure Systemsg</i>, 2021/9/1   
+      <i>Journal of Infrastructure Systems</i>, 2021/9/1   
     </p>
   </div>
 </div>
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -280,7 +295,8 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  
+    <img src="/web_resources\publications\picture\Engineering Structures.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
+
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Overheight impact on bridges: A computational case study of the Skagit River bridge collapse</b>
@@ -296,7 +312,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Performance-based framework for evaluating truck collision risk for bridge piers</b>
@@ -311,7 +327,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Numerical studies on concrete barriers subject to MASH truck impact</b>
@@ -326,7 +342,8 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  
+  <img src="/web_resources\publications\picture\STRUCTURE magazine.png" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
+
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Deadly Miami Pedestrian Bridge Collapse</b>
@@ -341,6 +358,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -356,7 +374,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  
+  <img src="/web_resources\publications\picture\Engineering Structures.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Inelastic behavior of a bridge bent subjected to truck impact: Experimental and computational study</b>
@@ -370,7 +388,7 @@ last_modified_at: 2024-12-01
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>    
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Performance-based design framework for bridge piers subjected to truck collision</b>
@@ -384,6 +402,7 @@ last_modified_at: 2024-12-01
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -398,6 +417,7 @@ last_modified_at: 2024-12-01
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -414,6 +434,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -430,6 +451,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\Snipaste_2024-12-02_12-46-05.png" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -445,6 +467,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\Snipaste_2024-12-02_12-47-40.png" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -460,6 +483,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\International Journal of Structural Stability and Dynamics.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
