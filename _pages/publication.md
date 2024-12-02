@@ -4,11 +4,11 @@ permalink: /publication/
 title: Publication
 classes: wide
 author_profile: true
-last_modified_at: 2024-09-07
+last_modified_at: 2024-12-02
 ---
 
 
-<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -23,7 +23,7 @@ last_modified_at: 2024-09-07
 </div>
 
 
-<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -33,6 +33,20 @@ last_modified_at: 2024-09-07
       <strong>R Cao</strong>, S El-Tawil, A Agrawal, W Wong, Q Zhu
       <br/>   
       <i>Journal of Bridge Engineering</i>, 2024.8.1     
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
+    </span>
+    <p>
+      H Wang, L Deng, <strong>R Cao</strong>, J Guo
+      <br/>   
+      <i>ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction</i>, 2024     
     </p>
   </div>
 </div>
