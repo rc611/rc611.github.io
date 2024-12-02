@@ -12,12 +12,12 @@ last_modified_at: 2024-09-07
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Automated Point Positioning for Robotic Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras (Under Review)</b>
+      <b>Demand Model for Concrete Barriers Subject to Tractor Tanker-Trailer Impact</b>
     </span>
     <p>
-      Lu Deng, <strong>Huiguang Wang</strong>,  Ran Cao, Jingjing Guo
+      <strong>R Cao</strong>, S El-Tawil, A Agrawal, W Wong
       <br/>        
-      <b><font color='red'>All codes will be opened source after this paper being publicated.</font></b>
+      <b>International Journal of Bridge Engineering, Management and ResearchInternational Journal of Bridge Engineering, Management and Research</b>
     </p>
   </div>
 </div>
