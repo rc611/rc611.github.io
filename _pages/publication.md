@@ -112,8 +112,10 @@ last_modified_at: 2024-12-01
     <p>
       Chao Xiang, Jingjing Guo, <strong>Ran Cao</strong>, Lu Deng
       <br/>   
-      <i>Automation in Construction</i>, 2023.8.1    
-    </p>
+      <i>Automation in Construction</i>, 2023.8.1   
+      <br/>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0926580523001541"><b>[Paper]</b></a>   
+    </p> 
   </div>
 </div>
 
@@ -129,8 +131,10 @@ last_modified_at: 2024-12-01
     <p>
       HH Chu, <strong>Ran Cao</strong>, Lu Deng
       <br/>   
-      <i>Expanding Underground-Knowledge and Passion to Make a Positive Impact on the World</i>, 2023.4.12    
-    </p>
+      <i>Expanding Underground-Knowledge and Passion to Make a Positive Impact on the World</i>, 2023.4.12  
+      <br/>
+      <a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003348030-289/collaborative-inspection-system-composed-quadruped-flying-robot-crack-segmentation-tunnel-environment-chu-cao-deng"><b>[Paper]</b></a>   
+    </p>  
   </div>
 </div>
 
@@ -145,6 +149,8 @@ last_modified_at: 2024-12-01
       Lu Deng, Tao Sun, Liang Yang, <strong>Ran Cao</strong>
       <br/>   
       <i>Automation in Construction</i>, 2023.4.1    
+      <br/>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0926580523000031"><b>[Paper]</b></a>   
     </p>
   </div>
 </div>
@@ -159,7 +165,9 @@ last_modified_at: 2024-12-01
     <p>
       Shengquan Zou, <strong>Ran Cao</strong>, Lu Deng, Wei Wang
       <br/>   
-      <i>Engineering Structures</i>, 2022.8.15   
+      <i>Engineering Structures</i>, 2022.8.15  
+            <br/>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029622005144"><b>[Paper]</b></a>   
     </p>
   </div>
 </div>
@@ -177,8 +185,10 @@ last_modified_at: 2024-12-01
     <p>
       Tianyang Ling, <strong>Ran Cao</strong>, Lu Deng, Wei He, Xin Wu, Wenjie Zhong
       <br/>   
-      <i>Engineering Structures</i>, 2022.7.1   
-    </p>
+      <i>Engineering Structures</i>, 2022.7.1  
+            <br/>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S014102962200445X"><b>[Paper]</b></a>   
+    </p> 
   </div>
 </div>
 
@@ -193,8 +203,10 @@ last_modified_at: 2024-12-01
     <p>
       Deepak Kumar, Anil K Agrawal, <strong>Ran Cao</strong>, Lihan Zhan, Jie Wei
       <br/>   
-      <i>European Workshop on Structural Health Monitoring</i>, 2022.6.16   
-    </p>
+      <i>European Workshop on Structural Health Monitoring</i>, 2022.6.16 
+            <br/>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-07258-1_11"><b>[Paper]</b></a>   
+    </p>  
   </div>
 </div>
 
@@ -209,6 +221,8 @@ last_modified_at: 2024-12-01
       AK Agrawal, S El-Tawil, Ran Cao
       <br/>   
       <i>European Workshop on Structural Health Monitoring</i>, 2022/1/25   
+            <br/>
+      <a href="https://trid.trb.org/View/2449019"><b>[Paper]</b></a>   
     </p>
   </div>
 </div>
@@ -225,6 +239,8 @@ last_modified_at: 2024-12-01
       <strong>Ran Cao</strong>, Anil Kumar Agrawal, Sherif El-Tawil, Waider Wong
       <br/>   
       <i>European Workshop on Structural Health Monitoring</i>, 2021/12/1   
+            <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/(ASCE)BE.1943-5592.0001806"><b>[Paper]</b></a>   
     </p>
   </div>
 </div>
@@ -240,6 +256,8 @@ last_modified_at: 2024-12-01
       <strong>Ran Cao</strong>, Sherif El-Tawil, Anil Kumar Agrawal, Waider Wong
       <br/>   
       <i>Journal of Bridge Engineering</i>, 2021/12/1   
+            <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/(ASCE)BE.1943-5592.0001789"><b>[Paper]</b></a>   
     </p>
   </div>
 </div>
@@ -254,8 +272,10 @@ last_modified_at: 2024-12-01
     <p>
       Anil Kumar Agrawal, Glenn Washer, Sreenivas Alampalli, Xu Gong, <strong>Ran Cao</strong>
       <br/>   
-      <i>Journal of Civil Structural Health Monitoring</i>, 2021/11   
-    </p>
+      <i>Journal of Civil Structural Health Monitoring</i>, 2021/11  
+            <br/>
+      <a href="https://link.springer.com/article/10.1007/s13349-021-00517-5"><b>[Paper]</b></a>   
+    </p> 
   </div>
 </div>
 
@@ -272,6 +292,8 @@ last_modified_at: 2024-12-01
       Anil Kumar Agrawal, Glenn Washer, Sreenivas Alampalli, Xu Gong, <strong>Ran Cao</strong>
       <br/>   
       <i>Journal of Infrastructure Systems</i>, 2021/9/1   
+      <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29IS.1943-555X.0000622"><b>[Paper]</b></a>   
     </p>
   </div>
 </div>
@@ -287,7 +309,9 @@ last_modified_at: 2024-12-01
     <p>
       <strong>Ran Cao</strong>, Anil Kumar Agrawal, Sherif El-Tawil, Waider Wong
       <br/>   
-      <i>Journal of Bridge Engineering</i>, 2021/8/1   
+      <i>Journal of Bridge Engineering</i>, 2021/8/1 
+      <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/(ASCE)BE.1943-5592.0001751"><b>[Paper]</b></a>         
     </p>
   </div>
 </div>
@@ -304,7 +328,9 @@ last_modified_at: 2024-12-01
     <p>
       <strong>Ran Cao</strong>, Anil Kumar Agrawal, Sherif El-Tawil
       <br/>   
-      <i>Engineering Structures</i>, 2021/6/15   
+      <i>Engineering Structures</i>, 2021/6/15  
+      <br/>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029621003655"><b>[Paper]</b></a>  
     </p>
   </div>
 </div>
@@ -321,6 +347,8 @@ last_modified_at: 2024-12-01
       <strong>Ran Cao</strong>, Anil Kumar Agrawal, Sherif El-Tawil, Waider Wong
       <br/>   
       <i>Journal of Bridge Engineering</i>, 2020/10/1  
+                <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29BE.1943-5592.0001618"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -336,6 +364,8 @@ last_modified_at: 2024-12-01
       <strong>Ran Cao</strong>, Anil Kumar Agrawal, Sherif El-Tawil, Waider Wong
       <br/>   
       <i>Journal of Bridge Engineering</i>, 2020/7/1 
+                  <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/(ASCE)BE.1943-5592.0001570"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -352,6 +382,8 @@ last_modified_at: 2024-12-01
       Cao, R., El-Tawil, S., Agrawal, A.K.
       <br/>   
       <i>STRUCTURE magazine</i>, 2020
+                  <br/>
+      <a href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=7NPTyDIAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=7NPTyDIAAAAJ:Zph67rFs4hoC"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -368,6 +400,8 @@ last_modified_at: 2024-12-01
       <strong>Ran Cao</strong>, Sherif El-Tawil, Anil Kumar Agrawal
       <br/>   
       <i>Journal of Bridge Engineering</i>, 2020/1/1
+                  <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/(ASCE)BE.1943-5592.0001532"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -383,6 +417,8 @@ last_modified_at: 2024-12-01
       Xi Chen, Anil Kumar Agrawal, Sherif El-Tawil, Xiaochen Xu, <strong>Ran Cao</strong>, Waider Wong
       <br/>   
       <i>Engineering Structures</i>, 2019/11/15
+      <br/>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029618337441"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -397,6 +433,8 @@ last_modified_at: 2024-12-01
       <strong>Ran Cao</strong>, Anil K Agrawal, Sherif El-Tawil, Xiaochen Xu, Waider Wong
       <br/>   
       <i>Journal of Bridge Engineering</i>, 2019/7/1
+                  <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29BE.1943-5592.0001423"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -412,6 +450,8 @@ last_modified_at: 2024-12-01
       <strong>Ran Cao</strong>, Sherif El-Tawil, Anil Kumar Agrawal, Xiaochen Xu, Waider Wong
       <br/>   
       <i>Journal of Bridge Engineering</i>, 2019/7/1
+                  <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/(ASCE)BE.1943-5592.0001414"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -427,6 +467,8 @@ last_modified_at: 2024-12-01
       <strong>Ran Cao</strong>, Anil Kumar Agrawal, Sherif El-Tawil, Xiaochen Xu, Waider Wong
       <br/>   
       <i>Journal of Bridge Engineering</i>, 2019/6/1
+      <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/(ASCE)BE.1943-5592.0001398"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -444,6 +486,8 @@ last_modified_at: 2024-12-01
       Xiaochen Xu, <strong>Ran Cao</strong>, Sherif El-Tawil, Anil Kumar Agrawal, Waider Wong
       <br/>   
       <i>Journal of Bridge Engineering</i>, 2019/6/1
+                  <br/>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/(ASCE)BE.1943-5592.0001397"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -461,6 +505,8 @@ last_modified_at: 2024-12-01
       <strong>Ran Cao</strong>, Anil K Agrawal
       <br/>   
       <i>INSPIRE-UTC Annual Meetings</i>, 2019
+      <br/>
+      <a href="https://scholarsmine.mst.edu/inspire-meetings/2019_meeting/data_analytics/5/"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -477,6 +523,8 @@ last_modified_at: 2024-12-01
       Anil K Agrawal, Sherif El-Tawil, <strong>Ran Cao</strong>, Xiaochen Xu, Xiaoxuan Chen, Waider Wong
       <br/>   
       <i>United States. Federal Highway Administration. Office of Research, Development, and Technology</i>, 2018/5/1
+      <br/>
+      <a href="https://rosap.ntl.bts.gov/view/dot/38226"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
@@ -493,6 +541,8 @@ last_modified_at: 2024-12-01
       Lu Deng, <strong>Ran Cao</strong>, Wei Wang, Xinfeng Yin
       <br/>   
       <i>International Journal of Structural Stability and Dynamics</i>, 2016/10/27
+      <br/>
+      <a href="https://www.worldscientific.com/doi/abs/10.1142/S0219455415500479"><b>[Paper]</b></a> 
     </p>
   </div>
 </div>
