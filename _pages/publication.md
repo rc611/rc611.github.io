@@ -9,14 +9,14 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\publications\picture\Snipaste_2024-12-02_12-21-36.png" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Demand Model for Concrete Barriers Subject to Tractor Tanker-Trailer Impact</b>
     </span>
     <p>
-      <strong>R Cao</strong>, S El-Tawil, A Agrawal, W Wong
+      <strong>Ran Cao</strong>, S El-Tawil, A Agrawal, W Wong
       <br/>   
       <i>International Journal of Bridge Engineering, Management and Research</i>, 2024.9.5     
     </p>
@@ -25,14 +25,14 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Concrete Bridge Barriers: State-of-the-Art and Design Implementation</b>
     </span>
     <p>
-      <strong>R Cao</strong>, S El-Tawil, A Agrawal, W Wong, Q Zhu
+      <strong>Ran Cao</strong>, S El-Tawil, A Agrawal, W Wong, Q Zhu
       <br/>   
       <i>Journal of Bridge Engineering</i>, 2024.8.1     
     </p>
@@ -42,14 +42,14 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
-  
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\ISARC.png" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
     </span>
     <p>
-      H Wang, L Deng, <strong>R Cao</strong>, J Guo
+      H Wang, L Deng, <strong>Ran Cao</strong>, J Guo
       <br/>   
       <i>ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction</i>, 2024     
     </p>
@@ -59,8 +59,8 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
-  
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\ISARC.png" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>    
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Automatic Quality Inspection of Rebar Spacing Using Vision-Based Deep Learning with RGBD Camera</b>
@@ -74,7 +74,8 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -91,7 +92,8 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\AIC.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -107,7 +109,8 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\Expanding Underground-Knowledge and Passion to Make a Positive Impact on the World.webp" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -122,7 +125,7 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -136,7 +139,7 @@ last_modified_at: 2024-12-01
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -153,7 +156,7 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -168,7 +171,7 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -183,14 +186,14 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Implementation of Crash Simulation Technology to Develop Countermeasures Strategies for Overheight Impact Protection System on Concrete Girders</b>
     </span>
     <p>
-      AK Agrawal, S El-Tawil, R Cao
+      AK Agrawal, S El-Tawil, Ran Cao
       <br/>   
       <i>European Workshop on Structural Health Monitoring</i>, 2022/1/25   
     </p>
@@ -198,7 +201,7 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -212,7 +215,7 @@ last_modified_at: 2024-12-01
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -226,7 +229,7 @@ last_modified_at: 2024-12-01
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -242,7 +245,7 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -257,7 +260,7 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -273,7 +276,7 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -289,7 +292,7 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -304,7 +307,7 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -319,7 +322,7 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -334,7 +337,7 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -349,7 +352,7 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -363,7 +366,7 @@ last_modified_at: 2024-12-01
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -377,7 +380,7 @@ last_modified_at: 2024-12-01
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -391,7 +394,7 @@ last_modified_at: 2024-12-01
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -407,7 +410,7 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -423,7 +426,7 @@ last_modified_at: 2024-12-01
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -438,7 +441,7 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -453,7 +456,7 @@ last_modified_at: 2024-12-01
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
