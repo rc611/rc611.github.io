@@ -9,7 +9,7 @@ main:
   # - title: "Publication"
   #   url: /publication/
   - title: "Award"
-    url: /award/
+    url: _doc/award/
   # - title: "Presentation"
   #   url: /presentation/
   # - title: "Demo"
