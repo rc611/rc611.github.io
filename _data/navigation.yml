@@ -8,11 +8,7 @@ main:
     url: /people/
   - title: "Publication"
     url: /publication/
-  # - title: "Award"
-  #   url: /award/
-  # - title: "Presentation"
-  #   url: /presentation/
-  # - title: "Demo"
-  #   url: /demo/
-  # - title: "Contact"
-  #   url: /contact/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
