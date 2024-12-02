@@ -6,8 +6,8 @@ main:
     url: https://whghnu.github.io
   # - title: "Project"
   #   url: /project/
-  # - title: "Publication"
-  #   url: /publication/
+  - title: "Publication"
+    url: /publication/
   # - title: "Award"
   #   url: /award/
   # - title: "Presentation"
