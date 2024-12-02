@@ -49,7 +49,7 @@ last_modified_at: 2024-12-01
       <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
     </span>
     <p>
-      H Wang, L Deng, <strong>Ran Cao</strong>, J Guo
+      Huiguang Wang, Lu Deng, <strong>Ran Cao</strong>, Jingjing Guo
       <br/>   
       <i>ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction</i>, 2024     
     </p>
@@ -126,7 +126,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  
+  <img src="/web_resources\publications\picture\AIC.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Binocular video-based 3D reconstruction and length quantification of cracks in concrete structures</b>
@@ -140,6 +140,7 @@ last_modified_at: 2024-12-01
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\Engineering Structures.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -157,6 +158,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\Engineering Structures.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -172,6 +174,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\European Workshop on Structural Health Monitoring.webp" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
