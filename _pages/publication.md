@@ -8,8 +8,9 @@ last_modified_at: 2024-12-01
 ---
 
 
+
 <div style="display: flex; align-items: center;">
-  
+  <img src="/web_resources\publications\picture\Snipaste_2024-12-02_12-21-36.png" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Demand Model for Concrete Barriers Subject to Tractor Tanker-Trailer Impact</b>
@@ -17,7 +18,7 @@ last_modified_at: 2024-12-01
     <p>
       <strong>R Cao</strong>, S El-Tawil, A Agrawal, W Wong
       <br/>   
-      <i>International Journal of Bridge Engineering, Management and ResearchInternational Journal of Bridge Engineering, Management and Research</i>, 2024.9.5     
+      <i>International Journal of Bridge Engineering, Management and Research</i>, 2024.9.5     
     </p>
   </div>
 </div>
@@ -25,7 +26,7 @@ last_modified_at: 2024-12-01
 
 
 <div style="display: flex; align-items: center;">
-  
+  <img src="/web_resources\publications\picture\jbe.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>  
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Concrete Bridge Barriers: State-of-the-Art and Design Implementation</b>
