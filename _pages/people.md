@@ -9,7 +9,7 @@ last_modified_at: 2024-12-02
 
 ### PhD Students
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\people\wqk.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>
+  <img src="/web_resources\people\wqk.jpg" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style=" display: block; margin-bottom: 10px;">
       <b>Quankai Wang (PhD Student)</b>
@@ -27,7 +27,7 @@ last_modified_at: 2024-12-02
 ### Master Students
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\people\zhuqi.png" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>
+  <img src="/web_resources\people\zhuqi.png" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style=" display: block; margin-bottom: 10px;">
       <b>QI Zhu (Master Student)</b>
@@ -43,7 +43,7 @@ last_modified_at: 2024-12-02
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\people\zuoxun.png" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>
+  <img src="/web_resources\people\zuoxun.png" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style=" display: block; margin-bottom: 10px;">
       <b>Xun Zuo (Master Student)</b>
@@ -61,7 +61,7 @@ last_modified_at: 2024-12-02
 
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\people\wqx.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>
+  <img src="/web_resources\people\wqx.jpg" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style=" display: block; margin-bottom: 10px;">
       <b>Qixing Wang (Master Student)</b>
@@ -77,7 +77,7 @@ last_modified_at: 2024-12-02
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\people\xieyulin.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>
+  <img src="/web_resources\people\xieyulin.jpg" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style=" display: block; margin-bottom: 10px;">
       <b>Yulin Xie (Master Student)</b>
