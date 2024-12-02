@@ -11,7 +11,7 @@ last_modified_at: 2024-12-02
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\people\wqk.jpg" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
-    <span style=" display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Quankai Wang (PhD Student)</b>
     </span>
     <p>
@@ -29,7 +29,7 @@ last_modified_at: 2024-12-02
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\people\zhuqi.png" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
-    <span style=" display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>QI Zhu (Master Student)</b>
     </span>
     <p>
@@ -45,7 +45,7 @@ last_modified_at: 2024-12-02
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\people\zuoxun.png" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
-    <span style=" display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Xun Zuo (Master Student)</b>
     </span>
     <p>
@@ -63,7 +63,7 @@ last_modified_at: 2024-12-02
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\people\wqx.jpg" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
-    <span style=" display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Qixing Wang (Master Student)</b>
     </span>
     <p>
@@ -79,7 +79,7 @@ last_modified_at: 2024-12-02
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\people\xieyulin.jpg" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
-    <span style=" display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Yulin Xie (Master Student)</b>
     </span>
     <p>
