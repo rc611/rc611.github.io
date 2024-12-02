@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /_docs/contact/index.html
+permalink: /docs/contact/index.html
 classes: wide
 author_profile: true
 ---
