@@ -21,7 +21,7 @@ title                    : "Cao Ran's website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cao Ran"
-description              : "A person who pay his attention to automation in construction and vehicular impact"
+description              : "A person who pays his attention to automation in construction and vehicular impact"
 url                      : #"https://huiguangwang.top"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Cao Ran"
   avatar           : "/web_resources/caoran.jpg"
-  bio              : "A person who pay his attention to automation in construction and vehicular impact."
+  bio              : "A person who pays his attention to automation in construction and vehicular impact."
   location         : "China"
   email            : 
   links:
