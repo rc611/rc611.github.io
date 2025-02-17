@@ -18,7 +18,7 @@ last_modified_at: 2024-12-01
       <br/>   
       <i>Automation in Construction</i>, 2025   
       <br/>
-      <a href="https://ijbemr.org/index.php/ber/article/view/3"><b>[Paper]</b></a>       
+      <a href="https://www.sciencedirect.com/science/article/pii/S0926580525000299"><b>[Paper]</b></a><a href="https://huiguangwang.top/tutorial/FPM-Tutorial/"><b>[Toturial]</b></a>       
     </p>
   </div>
 </div>
