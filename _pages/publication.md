@@ -7,7 +7,21 @@ author_profile: true
 last_modified_at: 2024-12-01
 ---
 
-
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publications\picture\AIC.jpg" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>Automated point positioning for robotic spot welding using integrated 2D drawings and structured light cameras</b>
+    </span>
+    <p>
+      Lu Deng, Huiguang Wang, <strong>Ran Cao</strong>, Jingjing Guo
+      <br/>   
+      <i>Automation in Construction</i>, 2025   
+      <br/>
+      <a href="https://ijbemr.org/index.php/ber/article/view/3"><b>[Paper]</b></a>       
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\publications\picture\Snipaste_2024-12-02_12-21-36.png" style="flex-shrink: 0; width: 100px; margin-right: 20px;"/>
