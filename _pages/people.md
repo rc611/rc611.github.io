@@ -7,7 +7,7 @@ author_profile: true
 last_modified_at: 2024-12-02
 ---
 
-### PhD Students
+### Graduate Students
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\people\wqk.jpg" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
@@ -15,29 +15,11 @@ last_modified_at: 2024-12-02
       <b>Quankai Wang (PhD Student)</b>
     </span>
     <p>
-      Master of Engineering in Civil Engineering from the Nantong University
+      Master of Engineering in Civil Engineering from Nantong University
       <br/>   
       <i>Research interests: Machine Learning; SLAM; Motion Planning</i>   
       <br/>
       <b>[Link]</b>      
-    </p>
-  </div>
-</div>
-
-### Master Students
-
-<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\people\zhuqi.png" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
-  <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>QI Zhu (Master Student)</b>
-    </span>
-    <p>
-      Bachelor of Engineering in Civil Engineering from the Jianghan University
-      <br/>   
-      <i>Research interests: Machine Learning; The Distance Estimation of Monocular Camera</i>   
-      <br/>
-      <a href="https://www.dengteam.com/index.php?m=content&c=index&a=show&catid=31&id=227"><b>[Link]</b></a>       
     </p>
   </div>
 </div>
@@ -49,11 +31,11 @@ last_modified_at: 2024-12-02
       <b>Xun Zuo (Master Student)</b>
     </span>
     <p>
-      Bachelor of Engineering in Civil Engineering from the Hunan University
+      Bachelor of Engineering in Civil Engineering from Hunan University
       <br/>   
       <i>Research interests: Overheight Vehicular Impacts; Machine Learning; Imitation Learning</i>   
       <br/>
-      <a href="https://www.dengteam.com/index.php?m=content&c=index&a=show&catid=31&id=228"><b>[Link]</b></a>       
+      <b>[Link]</b></a>       
     </p>
   </div>
 </div>
@@ -64,10 +46,10 @@ last_modified_at: 2024-12-02
   <img src="/web_resources\people\wqx.jpg" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Qixing Wang (Master Student)</b>
+      <b>Qixing Wan (Master Student)</b>
     </span>
     <p>
-      Bachelor of Engineering in Civil Engineering from the Hunan University
+      Bachelor of Engineering in Civil Engineering from Hunan University
       <br/>   
       <i>Research interests: SLAM; Motion Planning</i>   
       <br/>
@@ -83,16 +65,33 @@ last_modified_at: 2024-12-02
       <b>Yulin Xie (Master Student)</b>
     </span>
     <p>
-      Bachelor of Engineering in Civil Engineering from the Yunnan University
+      Bachelor of Engineering in Civil Engineering from Yunnan University
       <br/>   
-      <i>Research interests: SLAM; Motion Planning</i>   
+      <i>Research interests: Artificial Intelligence; FEM</i>   
       <br/>
       <b>[Link]</b>     
     </p>
   </div>
 </div>
 
+### Former Members & Alumni
 
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\people\zhuqi.png" style="flex-shrink: 0; width: 130px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>Qi Zhu (Master Student)</b>
+    </span>
+    <p>
+      Bachelor of Engineering in Civil Engineering from Yangtze University
+      <br/>   
+      <i>Research interests: Machine Learning; Distance Estimation using Monocular Camera</i>   
+      <br/>
+      <b>[Link]</b></a>       
+    </p>
+  </div>
+</div>
 
-
-
+<!-- How to add link 
+      <a href="https://www.dengteam.com/index.php?m=content&c=index&a=show&catid=31&id=227"><b>[Link]</b></a> 
+-->
