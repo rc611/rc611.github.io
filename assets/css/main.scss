@@ -3,6 +3,8 @@
 search: false
 ---
 
+
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -24,6 +26,9 @@ search: false
 //     }
 //   }
 
+.archive__item-title {
+  text-transform: capitalize !important;
+}
 
 @media (min-width: 80em) {
 
@@ -48,9 +53,6 @@ search: false
       border: 1px solid $border-color;
     }
   }
-}
-.archive__item-title {
-  text-transform: capitalize !important;
 }
 }
 
