@@ -1,9 +1,9 @@
 ---
+
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
+
 ---
-
-
 
 @charset "utf-8";
 
@@ -25,10 +25,6 @@ search: false
 //       font-size: 18px; // change to whatever
 //     }
 //   }
-
-.archive__item-title {
-  text-transform: capitalize !important;
-}
 
 @media (min-width: 80em) {
 
