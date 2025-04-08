@@ -1,8 +1,6 @@
 ---
-
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
-
 ---
 
 @charset "utf-8";
@@ -25,6 +23,7 @@ search: false
 //       font-size: 18px; // change to whatever
 //     }
 //   }
+
 
 @media (min-width: 80em) {
 
@@ -51,4 +50,3 @@ search: false
   }
 }
 }
-
