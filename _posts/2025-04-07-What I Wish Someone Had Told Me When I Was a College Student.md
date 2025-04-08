@@ -2,6 +2,7 @@
 title: What I Wish Someone Had Told Me When I Was a College Student
 classes: wide
 date: 2025-04-07
+author_profile: false
 ---
 
 > This year, I started serving as the advisor for freshmen majoring in **Intelligent Construction**.  
