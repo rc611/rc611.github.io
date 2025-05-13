@@ -13,6 +13,5 @@ author_profile: true
 
 <div style="text-align: justify;">
   <strong>Email:</strong> rcao@hnu.edu.cn<br>
-  </p>
 </div>
 
